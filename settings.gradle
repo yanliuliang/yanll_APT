@@ -1,0 +1,3 @@
+rootProject.name = "MyAPTDemo"
+include ':apt-annotaion'
+include ':apt-processor'
